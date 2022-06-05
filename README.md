@@ -17,7 +17,7 @@
 
 Splash Screen            | 
 :-------------------------:|
-![ss2](https://user-images.githubusercontent.com/77672442/172052440-d9ccefee-567c-41e6-a219-37d06e3f9cba.jpg)
+![ss2](https://user-images.githubusercontent.com/77672442/172052516-de1f18a9-c7fb-46ec-937b-6050db7fc725.jpg)
 
 
 Login Screen           | 
