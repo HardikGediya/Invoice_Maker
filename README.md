@@ -2,7 +2,16 @@
 
 **This App Used for Make Quick and Inovative Invoice in Just a One Click.**
 
-**Frist Splash Page are Display :**
+<h1 align="center"> Hi 👋, I'm Hardik Gediya!</a></h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
+
+
+- 🔭 &ensp;I’m currently working as **Flutter Developer**
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- ⚡ &ensp;Fun fact: I love reading & podcasts
+
+
 
 
 
@@ -12,7 +21,8 @@ Splash Screen            |
 
 Login Screen           | 
 :-------------------------:|
-![Screenshot_2022-06-05-16-39-58-680_com example invoice_app](https://user-images.githubusercontent.com/77672442/172050934-c13ff561-5d17-4142-b428-dd5a7c414367.jpg) 
+![Screenshot_2022-06-05-16-39-58-680_com example invoice_app](https://user-images.githubusercontent.com/77672442/172051699-086ca27c-1583-4893-92d4-1ae183d30cd0.jpg)
+
 
 Home Screen           | 
 :-------------------------:|
