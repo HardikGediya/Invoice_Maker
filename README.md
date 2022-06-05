@@ -17,7 +17,7 @@
 
 Splash Screen            | 
 :-------------------------:|
-![Screenshot_2022-06-05-16-40-23-369_com example invoice_app](https://user-images.githubusercontent.com/77672442/172050547-ad481ecb-ede4-470a-a3d5-6b8728cb65bd.jpg) 
+![Screenshot_2022-06-05-16-40-23-369_com example invoice_app](https://user-images.githubusercontent.com/77672442/172051914-0de4f1bc-7724-4bd0-b588-c4e7db35901d.jpg)
 
 Login Screen           | 
 :-------------------------:|
