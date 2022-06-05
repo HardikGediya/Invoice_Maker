@@ -14,4 +14,5 @@ Splash Screen            |  Login Screen
 
 Splash Screen            |  Login Screen
 :-------------------------:|:-------------------------:
-![WhatsApp Image 2022-06-05 at 4 45 35 PM](https://user-images.githubusercontent.com/77672442/172050298-b520b878-6d89-403f-859d-2803182897bd.jpeg)  |  ![WhatsApp Image 2022-06-05 at 4 45 35 PM (1)](https://user-images.githubusercontent.com/77672442/172050299-b6b730ca-8465-46f1-a443-4ee71dcbebe3.jpeg)
+![WhatsApp Image 2022-06-05 at 4 45 35 PM](https://user-images.githubusercontent.com/77672442/172050298-b520b878-6d89-403f-859d-2803182897bd.jpeg)  |  ![WhatsApp Image 2022-06-05 at 4 45 34 PM](https://user-images.githubusercontent.com/77672442/172050377-a511eb82-63ca-44e6-8a12-833014d6d253.jpeg)
+
