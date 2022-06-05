@@ -17,16 +17,16 @@
 
 Splash Screen            | 
 :-------------------------:|
-![Screenshot_2022-06-05-16-40-23-369_com example invoice_app](https://user-images.githubusercontent.com/77672442/172051914-0de4f1bc-7724-4bd0-b588-c4e7db35901d.jpg)
+![ss2](https://user-images.githubusercontent.com/77672442/172052333-1023590a-6b6a-4607-b582-d03848c289e6.jpg)
 
 Login Screen           | 
 :-------------------------:|
-![Screenshot_2022-06-05-16-39-58-680_com example invoice_app](https://user-images.githubusercontent.com/77672442/172051699-086ca27c-1583-4893-92d4-1ae183d30cd0.jpg)
+![ss2](https://user-images.githubusercontent.com/77672442/172052333-1023590a-6b6a-4607-b582-d03848c289e6.jpg)
 
 
 Home Screen           | 
 :-------------------------:|
-![Screenshot_2022-06-05-16-40-23-369_com example invoice_app](https://user-images.githubusercontent.com/77672442/172050924-1699199a-7c1a-41bf-9fff-7a9be4dfb0c2.jpg)
+![ss2](https://user-images.githubusercontent.com/77672442/172052333-1023590a-6b6a-4607-b582-d03848c289e6.jpg)
 
 
 
